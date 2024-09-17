@@ -3,7 +3,6 @@ python-dotenv
 altair
 annotated-types
 anyio
-I'margon2-cffi
 argon2-cffi-bindings
 arrow
 asttokens
