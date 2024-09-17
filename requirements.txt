@@ -3,6 +3,7 @@ python-dotenv
 altair
 annotated-types
 anyio
+argon2-cffi
 argon2-cffi-bindings
 arrow
 asttokens
@@ -149,7 +150,7 @@ sympy
 tenacity
 tensorboard
 tensorboard-data-server
-tensorflow==2.16.1
+tensorflow==2.17.0
 termcolor
 terminado
 threadpoolctl
