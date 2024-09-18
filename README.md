@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e648fe98-013c-4cc2-8583-1ecd12c774f6)# Road-signs-classification
+# Road-signs-classification
 This model is capable of identifying about 44 types of road signs, with 94% accuracy
 
 The task is for building a model capable of identifying about 44 different traffic signs
