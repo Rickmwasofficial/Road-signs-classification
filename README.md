@@ -8,7 +8,7 @@ The task is for building a model capable of identifying about 44 different traff
 The data was obtained from [Kaggle](https://www.kaggle.com/datasets/tuanai/traffic-signs-dataset)
 
 ### Training.
-The first part of training involved using EfficientNetV2B2 as the model's backbone to perform Feature extraction. The model achieved a low accuracy of 48% which was lower than the paper.
+The first part of training involved using EfficientNetV2B0 as the model's backbone to perform Feature extraction.
 
 **The experimental training happened in two steps:**
 1. On the feature extraction model
